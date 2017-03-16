@@ -1,0 +1,23 @@
+Practica P-VAR
+
+Alumno: Alejandro Pérez Lobato
+
+Horas dedicadas: 3.5
+
+Problemas surgidos al realizar la practica:
+Las conversiones explicitas e implicitas
+
+Respuestas a la preguntas:
+
+Apartado 030101
+Ejercicio 04
+Hay que cambiarle el tipo basico, en vez de ser un double lo pones como float y al lado del numero le pones una f con el fin de especificar exactamente la precisión de ese número.
+
+Apartado 030101
+Ejercicio 05
+Creas una clase en la que le metes el valor 2.8 y otra clase en la que le metes el valor 1.5 y al restar un valor menos el otro valor y poner en el System.out.println un .subtract redondeas exactamente al primer decimal y te da 1.3.
+Apartado 030104
+Ejercicio 02
+En este ejercicio tienes que castear los tipos basicos que es la conversion explicita  y es automático puedes meter un valor muy grande en un tipo basico que no sea para numeros grandes porque estas obligando que sea ese número.
+
+
