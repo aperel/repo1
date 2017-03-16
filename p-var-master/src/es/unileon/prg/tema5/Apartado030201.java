@@ -71,6 +71,22 @@ package es.unileon.prg.tema5;
 			System.out.println("Las dos cadenas no son iguales");		
 	}
 
+	if (cadena.equalsIgnoreCase(otraCadena)==0){
+	System.out.println("Las dos cadenas son iguales");
+		}else {
+			System.out.println("Las dos cadenas no son iguales");		
+	}
+		
+	String_cadena.ToLowerCase();
+	String_otraCadena.ToLowerCase();
+
+	if (cadena.compareTo(otraCadena)==0){
+	System.out.println("Las dos cadenas son iguales");
+		}else {
+			System.out.println("Las dos cadenas no son iguales");		
+	}
+
+	
 
       // Fin modificacion
       }
@@ -90,6 +106,12 @@ package es.unileon.prg.tema5;
          String cadena = "Viaje al Parnaso";
          String otraCadena = "Persiles y Segismunda";
       // Inicio modificacion
+	System.out.println("Viaje al Parnaso"+ " Persiles y Segismunda");
+	String cadenaConcatenada=cadena.concat(otraCadena);
+	System.out.println("La cadena concatenada es:" + cadenaConcatenada);
+
+
+
         // Fin modificacion
       }
    
@@ -107,6 +129,12 @@ package es.unileon.prg.tema5;
          cabecera("04", "");
          String cadena = "Viaje al Parnaso";
         // Inicio modificacion
+	if(cadena.endsWith("Parnaso")){
+	System.out.println("si contiene la palabra parnaso"+cadena);
+	}
+		
+
+
         // Fin modificacion
       }
    

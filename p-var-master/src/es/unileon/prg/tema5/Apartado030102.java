@@ -42,7 +42,7 @@ public class Apartado030102 extends Apartado {
       // Fin modificacion
 		System.out.println(op1+" , "+op2+" , "+resultado);
 	}
-
+}
 	/**
 	 * Operadores - Ejercicio2.
 	 *
@@ -50,7 +50,7 @@ public class Apartado030102 extends Apartado {
 	 *
 	 * Se pide completar el codigo para calcular el valor de rebaja
 	 */
-	public void ejercicio02() {
+	/*public void ejercicio02() {
 		cabecera("02", "Utilizacion de operadores logicos");
 
 		// Inicio modificacion
@@ -71,6 +71,9 @@ public class Apartado030102 extends Apartado {
 			}
 	
 		}
+
+*/
+
 		
 		// Fin modificacion
 	
