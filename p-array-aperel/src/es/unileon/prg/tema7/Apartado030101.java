@@ -71,7 +71,7 @@ public class Apartado030101 extends Apartado {
 
 		// Inicio modificacion
 
-	String temporal = {"Practica" "de" "Matrices"};
+	String[] temporal = {"Practica", "de", "Matrices"};
 	_otraMatriz = temporal;
 
 		// Fin modificacion
